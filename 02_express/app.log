@@ -1,0 +1,7 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/cart\",\"status\":\"201\",\"responseTime\":\"4.386\"}","timestamp":"2025-04-05T05:39:54.800Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/cart\",\"status\":\"201\",\"responseTime\":\"1.251\"}","timestamp":"2025-04-05T05:40:27.842Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/cart\",\"status\":\"201\",\"responseTime\":\"4.477\"}","timestamp":"2025-04-05T05:43:14.466Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/cart\",\"status\":\"201\",\"responseTime\":\"0.467\"}","timestamp":"2025-04-05T05:44:20.611Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/cart\",\"status\":\"200\",\"responseTime\":\"0.926\"}","timestamp":"2025-04-05T05:44:47.729Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"A post request is made","timestamp":"2025-04-05T05:46:11.624Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/cart\",\"status\":\"201\",\"responseTime\":\"9.413\"}","timestamp":"2025-04-05T05:46:11.640Z"}
